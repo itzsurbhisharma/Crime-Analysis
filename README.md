@@ -33,6 +33,7 @@ Action:
    a. Study the distribution of incidents reported where an arrest was made vs. not
    b. Identify what percentage of the reported incidents under each incident category are severe
    c. To make the dashboard interactive, provide filters for incident type and location in these dashboards for a granular           study
+   
 Result:
 1. Overall Crime Statistics:
    Presents crime count and types across the city, with a geo-map marking recent incidents and a live feed of total crimes 
